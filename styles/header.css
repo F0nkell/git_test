@@ -1,0 +1,9 @@
+*{
+    margin-top: 2px;
+    margin-left: 2px;
+}
+header>a>img{
+    height: 100px;
+    width: auto;
+    border-radius: 50%;
+}
